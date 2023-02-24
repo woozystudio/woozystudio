@@ -40,4 +40,4 @@ I started programming on March 1, 2021, I started with basic applications in Uni
   
 <h2>Github stats</h2>
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoozyStudio&theme=radical&layout=compact" />
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoozyStudio&theme=radical" />
