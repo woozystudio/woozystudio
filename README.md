@@ -41,6 +41,6 @@ I started programming on March 1, 2021, I started with basic applications in Uni
 <h2>Github Status:</h2>
 <a href="https://github.com/WoozyStudio"><img src="https://komarev.com/ghpvc/?username=WoozyStudio" alt="Profile Views"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woozystudio&layout=compact&theme=gotham"/>
+<img "https://github-readme-stats.vercel.app/api/top-langs/?username=woozystudio&layout=compact&theme=gotham"/>
 <img src="https://github-readme-stats.vercel.app/api?username=woozystudio&show_icons=true&theme=gotham"/>
 
