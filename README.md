@@ -40,8 +40,7 @@ I started programming on March 1, 2021, I started with basic applications in Uni
   
 ## 📈 Some stats
 
-[![WoozyStudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoozyStudio&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://github.com/WoozyStudio"><img src="https://komarev.com/ghpvc/?username=WoozyStudio" alt="Profile Views"/></a>
 
-This list is not representative of my skill, but ranks the languages I use the most in GitHub.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoozyStudio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=woozystudio&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woozystudio&theme=radical&layout=compact" />
