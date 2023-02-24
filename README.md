@@ -9,12 +9,14 @@
 
 ---
 
-**Hi!** My name is Woozy's YT and I'm a developer of [Discord](https://discord.gg/8fuDjFFnFh) Bots, Unity apps and games and a VTuber Animator and Model Designer.
+**Hi!** My name is Woozy's YT and I'm a developer of [Discord](https://discord.gg/8fuDjFFnFh) Bots, Unity apps and games, Arduino programs and a VTuber Animator and Model Designer.
 
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://unity.com"><img src="https://media.discordapp.net/attachments/1078706578997395469/1078709167382069391/unity_mini.png"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://media.discordapp.net/attachments/1078706578997395469/1078755585069170798/csharp-mini.png"/></a>
+<a href="https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170"><img src="https://media.discordapp.net/attachments/1078706578997395469/1078767502663893002/cpp-mini.png"/></a>
+<a href="https://www.arduino.cc/"><img src="https://img.icons8.com/windows/30/4caf50/arduino.png"/></a>
 <a href="https://www.live2d.com/en/"><img src="https://media.discordapp.net/attachments/1078706578997395469/1078710109603119245/mini_live2d.png"/></a>
 
 - **Pronouns:** He/Him
