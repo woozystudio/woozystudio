@@ -14,6 +14,7 @@
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://unity.com"><img src="https://media.discordapp.net/attachments/1078706578997395469/1078709167382069391/unity_mini.png"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://img.icons8.com/windows/30/4caf50/csharp.png"/></a>
 <a href="https://www.live2d.com/en/"><img src="https://media.discordapp.net/attachments/1078706578997395469/1078710109603119245/mini_live2d.png"/></a>
 
 - **Pronouns:** He/Him
