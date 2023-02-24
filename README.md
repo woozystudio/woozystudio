@@ -44,5 +44,5 @@ I started programming on March 1, 2021, I started with basic applications in Uni
 
 This list is not representative of my skill, but ranks the languages I use the most in GitHub.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woozystudio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/most-langs/?username=woozystudio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
