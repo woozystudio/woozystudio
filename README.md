@@ -42,5 +42,6 @@ I started programming on March 1, 2021, I started with basic applications in Uni
 
 <a href="https://github.com/WoozyStudio"><img src="https://komarev.com/ghpvc/?username=WoozyStudio" alt="Profile Views"/></a>
 
-<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=woozystudio&show_icons=true&theme=radical" />
-<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woozystudio&layout=compact&theme=radical" />
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Woozy's Studio&show_icons=true&theme=radical" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woozy's Studio&layout=compact" />
