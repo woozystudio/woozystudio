@@ -38,10 +38,3 @@ I started programming on March 1, 2021, I started with basic applications in Uni
 - Piolicraft Game Studio©
 - TeamBedrock©
 
-<h2>Support and Social Media</h2>
-  [GitHub]([https://discord.gg/8fuDjFFnFh](https://github.com/WoozyStudio))
-- [Discord Server](https://discord.gg/8fuDjFFnFh)
-- [YouTube](https://www.youtube.com/@WoozyStudio)
-- [Instagram](https://www.instagram.com/woozysyt/)
-- [Twitch (Inactive)](https://www.twitch.tv/woozysyt)
-  
