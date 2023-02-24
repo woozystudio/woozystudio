@@ -40,5 +40,3 @@ I started programming on March 1, 2021, I started with basic applications in Uni
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woozystudio&show_icons=true&locale=en&theme=gotham" alt="woozystudio" />
 <img src="https://github-readme-stats.vercel.app/api?username=woozystudio&show_icons=true&theme=gotham"/>
-
-[![Woozy's github stats](https://github-readme-stats-vercel.app/api?username=WoozyStudio)](https://github.com/anuraghazra/github-readme-stats)
