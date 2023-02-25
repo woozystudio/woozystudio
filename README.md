@@ -13,7 +13,7 @@
 
 ---
 
-**Hi!** My name is Woozy's YT and I'm a developer of [Discord](https://discord.gg/8fuDjFFnFh) Bots, Unity apps and games, Arduino programs and a VTuber Animator and Model Designer.
+**Hi!** My name is Woozy's YT and I'm a developer of [Discord](https://discord.gg/8fuDjFFnFh) Bots, Unity apps and games, Arduino programs, Delopment Minecraft Bedrock Add-Ons and a VTuber Animator and Model Designer.
 
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
