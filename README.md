@@ -3,9 +3,7 @@
 <div>
   <a href="https://github.com/WoozyStudio"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/WoosyStudio" alt="GitHub Badge"/></a>
   <a href="https://discord.com/users/869583777884667964"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/869583777884667964" alt="Discord Badge"/></a>
-  <a href="https://www.youtube.com/@WoozyStudio"><img src="https://img.shields.io/badge/-Youtube-000000?style=flat-square&labelColor=000000&logo=Youtube&logoColor=red&link=https://www.youtube.com/@WoozyStudio" alt="YouTube Badge"/></a>
-  <a href="https://www.instagram.com/woozysyt/"><img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&labelColor=000000&logo=Instagram&logoColor=5568f&link=https://www.instagram.com/woozysyt/" alt="Instagram Badge"/></a>
-  <a href="https://www.twitch.tv/woozysyt"><img src="https://img.shields.io/badge/-Twitch-000000?style=flat-square&labelColor=000000&logo=Twitch&logoColor=purple&link=https://www.twitch.tv/woozysyt" alt="Twitch Badge"/></a>
+
   
 </div>
 
