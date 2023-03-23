@@ -37,3 +37,5 @@ I started programming on March 1, 2021, I started with basic applications in Uni
 
 ## 📊 Github Stats:
 [![Woozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoozyStudio&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woozystudio&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
