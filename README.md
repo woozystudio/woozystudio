@@ -20,7 +20,7 @@ I started programming on March 1, 2021, I started with basic applications in Uni
 <img src="https://img.shields.io/badge/2%20years-69b34c?style=for-the-badge" alt="2 years" />
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/6%20months-fab733?style=for-the-badge" alt="6 months" />
+<img src="https://img.shields.io/badge/6%20months-fab733?style=for-the-badge" alt="7 months" />
 <br/>
 <img src="https://img.shields.io/badge/Arduino-00C7B7?style=for-the-badge&logo=arduino&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/2%20months-339933?style=for-the-badge" alt="2 months" />
