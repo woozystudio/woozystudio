@@ -1,30 +1,30 @@
 ### Hi there, I'm Woozy's YT!
 
-Hola! Soy una persona que le encanta programar y descubrir nuevos caminos en este mundo de la programación! Actualmente estoy trabajando en muchos proyectos para la comunidad.
+Hi, I'm a person who loves programming and discovering new ways in this world of programming! I'm currently working on many projects for the community.
 
-🎥 Lenguajes de programación que uso mucho:
+🎥 Programming languages I use a lot:
 - JavaScript / TypeScript
 - C#
 - C++
 - Json
 
-⭐ Actualmente trabajando en:
+⭐ Currently working on:
 - Piolicraft Game Studios
 - TeamBedrock
 - Keretrendszerem
 - Rikkumaki
 - FlamingNetwork
 
-🧭 Estoy aprendiendo:
-- Más hacerca de C#
+🧭 I'm learning:
+- More about C#
 - Tauri & Rust
 - Java
 
-🌱 Como puedes ayudarme: 
+🌱 How can you help me: 
 - YouTube: @WoozyStudio
 - Discord: Woozy's YT#2656
 
-🍄 Todos los lenguajes de programación que alguna vez he usado:
+🍄 Every programming language I've ever used:
 - JavaScript
 - TypeScript
 - C#
