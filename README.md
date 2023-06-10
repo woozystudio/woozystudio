@@ -9,11 +9,11 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - Json
 
 ⭐ Currently working on:
-- Piolicraft Game Studios
+- [Piolicraft Game Studios](https://github.com/PiolicraftGameStudios)
 - TeamBedrock
-- Keretrendszerem
-- Rikkumaki
-- FlamingNetwork
+- [Keretrendszerem](https://github.com/Keretrendszerem)
+- [Rikkumaki](https://github.com/Rikkumaki)
+- [FlamingNetwork](https://github.com/FlamingNW)
 
 🧭 I'm learning:
 - More about C#
