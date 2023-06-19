@@ -12,7 +12,7 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - [Piolicraft Game Studios](https://github.com/PiolicraftGameStudios)
 - TeamBedrock
 - [Keretrendszerem](https://github.com/Keretrendszerem)
-- [Rikkumaki](https://github.com/Rikkumaki)
+- [Rocktium](https://github.com/rocktiumbot)
 - [FlamingNetwork](https://github.com/FlamingNW)
 
 🧭 I'm learning:
