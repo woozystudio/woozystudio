@@ -6,6 +6,7 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - JavaScript / TypeScript
 - C#
 - C++
+- C
 - Json
 
 ⭐ Currently working on:
@@ -30,6 +31,7 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - TypeScript
 - C#
 - C++
+- C
 - Python
 - HTML
 - CSS
