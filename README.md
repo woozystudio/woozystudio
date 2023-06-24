@@ -11,7 +11,7 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 
 ⭐ Currently working on:
 - [Piolicraft Game Studios](https://github.com/PiolicraftGameStudios)
-- TeamBedrock
+- [TeamBedrock](https://www.youtube.com/@santigatojr)
 - [Keretrendszerem](https://github.com/Keretrendszerem)
 - [Rocktium](https://github.com/rocktiumbot)
 - [FlamingNetwork](https://github.com/FlamingNW)
