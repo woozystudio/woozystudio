@@ -7,7 +7,6 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - C#
 - C++
 - C
-- Json
 
 ⭐ Currently working on:
 - [Piolicraft Game Studios](https://github.com/PiolicraftGameStudios)
@@ -19,7 +18,6 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 
 🧭 I'm learning:
 - More about C#
-- Tauri & Rust
 - Java
 
 🌱 How can you help me: 
