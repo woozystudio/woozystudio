@@ -9,8 +9,7 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - C
 
 ⭐ Currently working on:
-- [Piolicraft Game Studios](https://github.com/PiolicraftGameStudios)
-- [TeamBedrock](https://www.youtube.com/@santigatojr)
+- [TeamBedrock](https://github.com/TeamBedrock)
 - [Keretrendszerem](https://github.com/Keretrendszerem)
 - [Rocktium](https://github.com/rocktiumbot)
 - [FlamingNetwork](https://github.com/FlamingNW)
