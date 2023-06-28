@@ -36,6 +36,8 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - Rust
 - Java
 - Json
+- Markdown
+- Jupyter Notebook
 
 <details>
   <summary>🍀 GitHub Statistics</summary> 
