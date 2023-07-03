@@ -13,7 +13,7 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - [Keretrendszerem](https://github.com/Keretrendszerem)
 - [Rocktium](https://github.com/rocktiumbot)
 - [FlamingNetwork](https://github.com/FlamingNW)
-- [Discord Testers](https://github.com/discordtesters)
+- [Woozy's Studios](https://github.com/WoozyStudios)
 
 🧭 I'm learning:
 - More about C#
