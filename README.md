@@ -10,7 +10,6 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 
 ⭐ Currently working on:
 - [TeamBedrock](https://github.com/TeamBedrock)
-- [Rocktium](https://github.com/rocktiumbot)
 - [FlamingNetwork](https://github.com/FlamingNW)
 - [Woozy's Studios](https://github.com/WoozyStudios)
 
