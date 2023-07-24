@@ -20,7 +20,7 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 🌱 How can you help me: 
 - YouTube: [@WoozyStudio](https://www.youtube.com/@WoozyStudio)
 - Discord: [Woozy's YT#2656](https://discord.com/users/869583777884667964)
-- [Discord Server](https://discord.gg/eEwPJ9Hx2t)
+- Discord Server: https://discord.gg/eEwPJ9Hx2t
 
 🍄 Every programming language I've ever used:
 - JavaScript
