@@ -12,6 +12,7 @@ Hi, I'm a person who loves programming and discovering new ways in this world of
 - [TeamBedrock](https://github.com/TeamBedrock)
 - [FlamingNetwork](https://github.com/FlamingNW)
 - [Woozy's Studios](https://github.com/WoozyStudios)
+- [Centro de Programación](https://github.com/centrodeprogramacion)
 
 🧭 I'm learning:
 - More about C#
