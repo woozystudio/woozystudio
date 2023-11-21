@@ -2,4 +2,23 @@
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam dignissim vulputate nisi vel consequat. Nulla ac sapien ultrices, finibus nisl eget, viverra felis. Suspendisse eget imperdiet nulla. Etiam congue odio eu nibh sagittis, id maximus nisl interdum. Aenean dignissim at orci ac finibus. Mauris sed sodales quam, ut rhoncus ligula. Nam a lacinia tellus. Morbi rhoncus laoreet arcu eu tempor. Praesent et tempus odio. Quisque vulputate ut ipsum ac ultricies. Quisque ex quam, blandit ac suscipit eu, dapibus sagittis enim. Mauris dignissim, libero et accumsan tincidunt, metus leo fermentum arcu, tincidunt sollicitudin quam dolor id ipsum. Duis scelerisque dolor et finibus posuere. Nullam non purus vitae odio auctor semper pellentesque vel nibh. Curabitur euismod fringilla consequat. Pellentesque eleifend finibus velit, id euismod ipsum viverra in.
+I'm a person who loves programming and discovering new ways in this programming world! I am currently working on many projects for the community. One of my main projects is Adobly, an organization that will support you in your programming path. I have 3 years programming, I started approximately on March 1, 2021, but I was always attracted by this world of virtual technologies. I invite you to take a little trip through my repositories to see a little of my projects and what they are about. 🧶
+
+Next, I will show you a little bit about my services and things that I do abitually, and that I love. ✨
+
+- 💻 Developer
+   - I am a developer of Bots or Discord and Add-ons applications for Minecraft Bedrock.
+- 🏃‍♂️ VTuber Modeling
+   - I design and animate VTuber models with full body or cut body. And I also do either pure design or pure rigging.
+- 🎫 Discord Setup
+   - I am a Discord server configurator or developer, I configure systems for your server, roles, permissions, bots, and more!
+ 
+
+If you want to support me or find me, you have me as @WoozyStudio on these platforms:
+- YouTube: [@WoozyStudio](https://www.youtube.com/@WoozyStudio)
+- Discord: [@woozystudio](https://discord.com/users/869583777884667964)
+- GitHub: [WoozyStudio](https://github.com/WoozyStudio)
+- Twitter (X): [@WoozyStudios](https://twitter.com/WoozyStudios)
+- Instagram: [@woozysstudio](https://www.instagram.com/woozysstudio/)
+- Portfolio: [woozystudio](https://woozystudio.github.io/)
+- Contact Email: woozystudiocontact@gmail.com
