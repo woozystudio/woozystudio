@@ -7,7 +7,7 @@ I'm a person who loves programming and discovering new ways in this programming 
 Next, I will show you a little bit about my services and things that I do abitually, and that I love. ✨
 
 - 💻 Developer
-   - I am a developer of Bots or Discord and Add-ons applications for Minecraft Bedrock.
+   - I am a developer of Bots for Discord and Add-ons for Minecraft Bedrock.
 - 🏃‍♂️ VTuber Modeling
    - I design and animate VTuber models with full body or cut body. And I also do either pure design or pure rigging.
 - 🎫 Discord Setup
