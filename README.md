@@ -22,3 +22,5 @@ If you want to support me or find me, you have me as @WoozyStudio on these platf
 - Instagram: [@woozysstudio](https://www.instagram.com/woozysstudio/)
 - Portfolio: [woozystudio](https://woozystudio.github.io/)
 - Contact Email: woozystudiocontact@gmail.com
+
+<sub>WoozyStudio © 2024</sub>
