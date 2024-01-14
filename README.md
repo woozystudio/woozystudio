@@ -20,7 +20,7 @@ If you want to support me or find me, you have me as @WoozyStudio on these platf
 - GitHub: [WoozyStudio](https://github.com/WoozyStudio)
 - Twitter (X): [@WoozyStudios](https://twitter.com/WoozyStudios)
 - Instagram: [@woozysstudio](https://www.instagram.com/woozysstudio/)
-- Portfolio: [woozystudio](https://woozystudio.github.io/)
+- Portfolio: [woozystudio.com](https://woozystudio.com/)
 - Contact Email: woozystudiocontact@gmail.com
 
 <sub>WoozyStudio © 2024</sub>
