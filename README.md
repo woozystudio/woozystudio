@@ -7,11 +7,11 @@ I'm a person who loves programming and discovering new ways in this programming 
 Next, I will show you a little bit about my services and things that I do abitually, and that I love. ✨
 
 - 💻 Developer
-   - I am a developer of Bots for Discord and Add-ons for Minecraft Bedrock.
+   - Developer of Bots for Discord and Add-ons for Minecraft Bedrock.
 - 🏃‍♂️ VTuber Modeling
-   - I design and animate VTuber models with full body or cut body. And I also do either pure design or pure rigging.
+   - Designer and animator of VTuber models with Live2D.
 - 🎫 Discord Setup
-   - I am a Discord server configurator or developer, I configure systems for your server, roles, permissions, bots, and more!
+   - Discord server creator and configurator for systems, roles, permissions, bots, etc.
  
 
 If you want to support me or find me, you have me as @WoozyStudio on these platforms:
