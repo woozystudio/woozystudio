@@ -1,4 +1,4 @@
-<img alt="WoozyStudios" src="https://media.discordapp.net/attachments/1141879797782413382/1176318651872317563/WoozysStudiosFull.png?ex=656e6f1d&is=655bfa1d&hm=67ef157f10c1a4deeb413b1fe8a58ed9900f094fedf30c65f27eefb8f02b801f&=&width=2880&height=703">
+<img alt="WoozyStudios" src="https://media.discordapp.net/attachments/1141879797782413382/1176318651872317563/WoozysStudiosFull.png?ex=65f8dc9d&is=65e6679d&hm=23490ec5121d7e62204361ebb7675d18a4ebe77081f11ddc8d6ea5a15a9349a6&">
 
 ---
 
