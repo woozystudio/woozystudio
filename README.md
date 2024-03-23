@@ -14,7 +14,7 @@ Next, I'll show you a little bit about my services and things that I do abituall
    - Discord server creator and configurator for systems, roles, permissions, bots, etc.
  
 
-If you want to support me or find me, you have me as @WoozyStudio on these platforms:
+If you want to support me or find me, you have me as @woozystudio on these platforms:
 - YouTube: [@woozystudio](https://www.youtube.com/@WoozyStudio)
 - Discord: [@woozystudio](https://discord.com/users/869583777884667964)
 - GitHub: [woozystudio](https://github.com/WoozyStudio)
