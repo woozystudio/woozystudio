@@ -2,9 +2,9 @@
 
 ---
 
-I'm a person who loves programming and discovering new ways in this programming world! I am currently working on many projects for the community. One of my main projects is Adobly, an organization that will support you in your programming path. I have 4 years programming, I started approximately on March 1, 2020, but I was always attracted by this world of virtual technologies. I invite you to take a little trip through my repositories to see a little of my projects and what they are about. 🧶
+I'm a person who loves programming and discovering new ways in this programming world! I'm currently working on many projects for the community. One of my main projects is Adobly, an organization that will support you in your programming path. I was always attracted by this world of virtual technologies. I invite you to take a little trip through my repositories to see a little of my projects and what they are about. 🧶
 
-Next, I will show you a little bit about my services and things that I do abitually, and that I love. ✨
+Next, I'll show you a little bit about my services and things that I do abitually, and that I love. ✨
 
 - 💻 Developer
    - Developer of Bots for Discord and Add-ons for Minecraft Bedrock.
