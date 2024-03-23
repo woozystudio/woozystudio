@@ -17,7 +17,7 @@ Next, I'll show you a little bit about my services and things that I do abituall
 If you want to support me or find me, you have me as @WoozyStudio on these platforms:
 - YouTube: [@woozystudio](https://www.youtube.com/@WoozyStudio)
 - Discord: [@woozystudio](https://discord.com/users/869583777884667964)
-- GitHub: [WoozyStudio](https://github.com/WoozyStudio)
+- GitHub: [woozystudio](https://github.com/WoozyStudio)
 - Twitter (X): [@WoozyStudios](https://twitter.com/WoozyStudios)
 - Instagram: [@gianlucabombardieri](https://www.instagram.com/gianlucabombardieri/)
 - Portfolio: [woozystudio.com](https://woozystudio.com/)
