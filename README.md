@@ -20,7 +20,7 @@ If you want to support me or find me, you have me as @WoozyStudio on these platf
 - GitHub: [woozystudio](https://github.com/WoozyStudio)
 - Twitter (X): [@WoozyStudios](https://twitter.com/WoozyStudios)
 - Instagram: [@gianlucabombardieri](https://www.instagram.com/gianlucabombardieri/)
-- Portfolio: [woozystudio.com](https://woozystudio.com/)
+- Website: [woozystudio.com](https://woozystudio.com/)
 - Contact Email: woozystudiocontact@gmail.com
 
 <sub>WoozyStudio © 2024</sub>
