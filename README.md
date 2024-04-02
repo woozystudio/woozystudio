@@ -11,7 +11,7 @@ Next, I'll show you a little bit about my services and things that I do abituall
 - 🏃‍♂️ VTuber Modeling
    - Designer and animator of VTuber models with Live2D.
 - 🎫 Discord Setup
-   - Discord server creator and configurator for systems, roles, permissions, bots, etc.
+   - Configurator of systems, roles, bots, permissions, etc, for your Discord server.
  
 
 If you want to support me or find me, you have me as @woozystudio on these platforms:
