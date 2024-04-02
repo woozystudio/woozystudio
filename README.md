@@ -8,10 +8,10 @@ Next, I'll show you a little bit about my services and things that I do abituall
 
 - 💻 Developer
    - Developer of Bots for Discord and Add-ons for Minecraft Bedrock.
-- 🏃‍♂️ VTuber Modeling
-   - Designer and animator of VTuber models with Live2D.
 - 🎫 Discord Setup
    - Configurator of systems, roles, bots, permissions, etc, for your Discord server.
+- 🏃‍♂️ VTuber Modeling
+   - Designer and animator of VTuber models with Live2D.
  
 
 If you want to support me or find me, you have me as @woozystudio on these platforms:
