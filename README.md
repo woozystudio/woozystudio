@@ -4,7 +4,8 @@ I'm WoozyStudio. I really enjoy learning new things and putting them into practi
 
 - 🧰 Programming languages I use the most ...
   - JavaScript / TypeScript
-  - C# / C++
+  - C#
+  - C++
   - Python
   - Markdown
 - 🔭 I’m currently working on ...
