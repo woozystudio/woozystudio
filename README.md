@@ -1,0 +1,27 @@
+### Hello there 👋
+
+I'm WoozyStudio. I really enjoy learning new things and putting them into practice!
+
+- 🧰 Programming languages I use the most ...
+  - JavaScript / TypeScript
+  - C#
+  - C++
+  - Python
+  - Markdown
+- 🔭 I’m currently working on ...
+  - A family of open-source discord bots: [elipsis](https://github.com/woozystudio/elipsis).
+- 🌱 I’m currently learning ... 
+  - More about TypeScript programming language.
+- 📫 How to reach me: ...
+  - Discord Direct Message: [@woozystudio](https://discord.com/users/869583777884667964)
+  - Email: `woozystudiocontact@gmail.com`
+- 💬 Ask me about ...
+  - Anything! Feel free to contact us.
+- 👯 I’m looking to collaborate on ...
+  - Discord
+- 😄 Pronouns: ...
+  - He/Him
+- ⚡ Fun fact: ...
+  - I love graphic design, everything related to technology and science and music.
+
+<sub>WoozyStudio © 2024</sub>
