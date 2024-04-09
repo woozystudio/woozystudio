@@ -22,6 +22,6 @@ I'm WoozyStudio. I really enjoy learning new things and putting them into practi
 - 🦞 Pronouns: ...
   - He/Him
 - ⚡ Fun fact: ...
-  - I love graphic design, everything related to technology and science and music.
+  - I love graphic design, everything related to technology, science and music.
 
 <sub>WoozyStudio © 2024</sub>
