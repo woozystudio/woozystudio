@@ -25,4 +25,4 @@ I'm WoozyStudio. I really enjoy learning new things and putting them into practi
 - ⚡ Fun fact: ...
   - I love graphic design, everything related to technology, science and music.
 
-<sub>WoozyStudio © 2024</sub>
+<sub>WoozyStudio © 2025</sub>
