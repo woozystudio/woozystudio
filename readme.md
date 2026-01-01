@@ -1,1 +1,1 @@
-<sub>WoozyStudio © 2025</sub>
+<sub>WoozyStudio © 2026</sub>
